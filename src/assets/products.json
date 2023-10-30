@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "pk": 1,
+      "code": "1212",
+      "description": "TV-Samsung",
+      "unitOfMeasurement": "Kg"
+    },
+    {
+      "pk": 2,
+      "code": "1313",
+      "description": "HP-Laptop",
+      "unitOfMeasurement": "Kg"
+    },
+    {
+      "pk": 3,
+      "code": "1414",
+      "description": "Apple-watch",
+      "unitOfMeasurement": "Gr"
+    }
+  ]
+}

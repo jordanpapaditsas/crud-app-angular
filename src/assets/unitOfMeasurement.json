@@ -1,0 +1,14 @@
+{
+  "unitOfMeasurements": [
+    {
+      "id": 1,
+      "code": "Kg",
+      "description": "Kilos"
+    },
+    {
+      "id": 2,
+      "code": "Gr",
+      "description": "Grams"
+    }
+  ]
+}
